@@ -1,1 +1,20 @@
-{"__resolveType":"site/sections/Header.tsx"}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Quem Somos",
+        "url": "/quem-somos"
+      },
+      {
+        "label": "Culturas",
+        "url": "/culturas"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/49e12f79-69d8-4ca1-baf8-33d66ab20a57",
+    "alt": "Toucan wearing a chef hat."
+  }
+}

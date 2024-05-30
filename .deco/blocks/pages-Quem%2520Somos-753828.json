@@ -1,0 +1,31 @@
+{
+  "name": "Quem Somos",
+  "path": "/quem-somos",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1>Welcome to Culturalli</h1><p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10508/7b971a93-9c8d-426a-9121-31ee1d9fa227\"></p>",
+      "placement": "left",
+      "cta": [
+        {
+          "id": "dev-github",
+          "text": "Dev's github",
+          "href": "https://github.com/Cauasg?tab=repositories"
+        }
+      ],
+      "description": "At Culturalli, we celebrate the rich diversity of global cultures through a curated selection of products and experiences and usage of the amazing Deco platform! "
+    },
+    {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "title": "Quem Somos",
+      "description": "Aqui na Cultaralli queremos proporcionar um mundo com mais vida..."
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
