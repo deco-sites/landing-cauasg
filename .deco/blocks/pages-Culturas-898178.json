@@ -3,7 +3,18 @@
   "path": "/culturas",
   "sections": [
     {
+      "__resolveType": "website/sections/Seo/SeoV2.tsx",
+      "title": "Culturas",
+      "titleTemplate": "%s",
+      "description": "At Culturalli, we celebrate the rich diversity of global cultures through a curated selection of products and experiences. Discover the unique services we offer...",
+      "descriptionTemplate": "%s"
+    },
+    {
       "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1 class=\"mb-6\">Our culture!</h1><p></p><p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/cf9abc87-a698-4f5b-ba0f-ec919d93b7a6\"></p>"
     }
   ],
   "seo": {

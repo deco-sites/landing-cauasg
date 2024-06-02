@@ -2,9 +2,11 @@ interface Props {
   /**
    * @description The description of name.
    */
-  name?: string;
+
+  /** @format textarea */
+  text: string;
 }
 
-export default function Section({ name = "Capy" }: Props) {
-  return <div>Hello {name}</div>;
+export default function Section({ text = "Capy" }: Props) {
+  return <div className="mb-6">{text}</div>;
 }
