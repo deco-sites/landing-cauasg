@@ -793,32 +793,6 @@
       }
     },
     {
-      "id": "deco-records",
-      "name": "Records",
-      "pinned": true,
-      "icon": "database",
-      "layout": [],
-      "tabs": {
-        "deco-records::Deco%20Records::database::Deco%20Records::%7B%7D": {
-          "name": "Deco Records",
-          "icon": "database",
-          "render": "function",
-          "viewId": "Deco Records",
-          "id": "deco-records::Deco%20Records::database::Deco%20Records::%7B%7D",
-          "state": {
-            "__signal": null
-          }
-        }
-      },
-      "tags": [
-        {
-          "label": "BETA",
-          "color": "positive"
-        }
-      ],
-      "category": "Content"
-    },
-    {
       "id": "/.deco/blocks/pages-Quem%2520Somos-753828.json",
       "name": "Quem Somos",
       "pinned": false,
@@ -920,8 +894,7 @@
           "viewId": "Properties",
           "id": "%2F.deco%2Fblocks%2Fpages-Quem%252520Somos-753828.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Quem%252520Somos-753828.json::Preview::world::Preview::%7B%7D": {
@@ -1039,8 +1012,7 @@
           "viewId": "Properties",
           "id": "%2F.deco%2Fblocks%2Fpages-Culturas-898178.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Culturas-898178.json::Preview::world::Preview::%7B%7D": {
@@ -1099,6 +1071,32 @@
         "maximisedItemId": null
       },
       "tabs": {}
+    },
+    {
+      "id": "deco-records-space",
+      "name": "Records",
+      "pinned": true,
+      "icon": "database",
+      "layout": [],
+      "tabs": {
+        "deco-records-space::Deco%20Records::database::Deco%20Records::%7B%7D": {
+          "name": "Deco Records",
+          "icon": "database",
+          "render": "function",
+          "viewId": "Deco Records",
+          "id": "deco-records-space::Deco%20Records::database::Deco%20Records::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        }
+      },
+      "tags": [
+        {
+          "label": "BETA",
+          "color": "positive"
+        }
+      ],
+      "category": "Content"
     }
   ]
 }
