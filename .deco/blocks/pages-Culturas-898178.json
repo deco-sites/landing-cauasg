@@ -13,8 +13,30 @@
       "__resolveType": "Preview /sections/Header.tsx"
     },
     {
-      "__resolveType": "site/sections/Hero.tsx",
-      "title": "<h1 class=\"mb-6\">Our culture!</h1><p></p><p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/cf9abc87-a698-4f5b-ba0f-ec919d93b7a6\"></p>"
+      "__resolveType": "site/sections/PageTitle.tsx",
+      "title": "Our culture!"
+    },
+    {
+      "__resolveType": "site/sections/BannerList.tsx",
+      "banners": [
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/3f8b7dbc-5720-4ffb-a0e9-3db097fb2dd9"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/a74f6a56-41c8-4b4b-82f6-103161d25617"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Lugar.tsx",
+      "temperature": {
+        "celsius": -6
+      },
+      "temp": {
+        "__resolveType": "Preview site/loaders/temperature.ts"
+      },
+      "location": "Mexico City",
+      "text": "Mexico City, the capital of Mexico, is a bustling metropolis rich in history and culture. Founded by the Aztecs in 1325 as Tenochtitlán, it blends ancient traditions with modern influences. Key attractions include the Zócalo, Templo Mayor, and the National Museum of Anthropology. Art lovers can explore the Frida Kahlo Museum.\n\nThe city's culinary scene ranges from traditional street food to high-end dining. Each neighborhood, like bohemian Coyoacán and upscale Polanco, offers unique experiences. Known for its warmth and hospitality, Mexico City is a captivating destination for history, art, and cuisine enthusiasts."
     }
   ],
   "seo": {

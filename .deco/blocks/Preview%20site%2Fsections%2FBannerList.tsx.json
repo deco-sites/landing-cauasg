@@ -1,0 +1,11 @@
+{
+  "__resolveType": "site/sections/BannerList.tsx",
+  "banners": [
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/3f8b7dbc-5720-4ffb-a0e9-3db097fb2dd9"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10572/a74f6a56-41c8-4b4b-82f6-103161d25617"
+    }
+  ]
+}
